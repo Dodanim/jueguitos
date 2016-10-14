@@ -1,0 +1,25 @@
+
+#contenedor{
+	background-image: url(../img/tablero.png) ;
+	
+	background-repeat: no-repeat;
+	background-attachment: relative;
+	background-position: center;
+	background-size: 1200px 800px;
+	position: relative;
+	margin: 0 auto;
+}
+#contador{
+	width: 200px;
+	height: 60px;
+	text-align: center;
+	background-color: black;
+	color: green;
+	display: block;
+	margin: 0 auto;
+}
+#contador  table  td{
+	padding: 3px;
+	width: 90px;
+	
+}
